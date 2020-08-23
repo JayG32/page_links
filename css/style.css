@@ -28,8 +28,9 @@ body,
 }
 
 body {
-  background-image: url("/assets/img/medium.jpg");
-  background-repeat: no-repeat;
+  /* background-image: url("/assets/img/medium.jpg");
+  background-repeat: no-repeat; */
+  background-color: rgb(53, 52, 50);
 }
 
 #root {
