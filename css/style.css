@@ -28,9 +28,9 @@ body,
 }
 
 body {
-  /* background-image: url("/assets/img/medium.jpg");
-  background-repeat: no-repeat; */
-  background-color: rgb(53, 52, 50);
+  background-image: url("/assets/img/medium.jpg");
+  background-repeat: no-repeat;
+  /* background-color: rgb(53, 52, 50); */
 }
 
 #root {
@@ -126,4 +126,19 @@ button {
 
 .buttons-container a img {
   margin-right: 2rem;
+}
+
+#footer{
+  text-align: center;
+  color: var(--color-button-text);  
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+@media screen and (max-width: 600px) {
+  .buttons-container{
+    display: grid;
+    grid-template-columns: 1fr ;
+    gap: 20px;
+  
+  }
 }
