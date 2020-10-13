@@ -1,6 +1,6 @@
 <h1 align="center"> Social Networks <h1>
 
-<h1> <img src="./assets/img/page_links.png" alt=""> <h1>
+<h1> <img src="./assets/img/02.png" alt=""> <h1>
 
 
 # Indice
